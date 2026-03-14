@@ -8,7 +8,13 @@ This is Justice's personal Claude Code workspace at `C:\Users\jferg\claude`. It 
 
 ## Git Workflow
 
-- Always commit changes with descriptive messages and push to GitHub after completing meaningful work.
+After completing any meaningful unit of work — new files, edits, fixes, or structural changes — always:
+1. Stage the relevant files
+2. Commit with a clear, descriptive message explaining what changed and why
+3. Push to GitHub immediately (`git push`)
+
+Never leave work uncommitted. Every session should end with a clean working tree and all changes pushed to `https://github.com/justiceferguson/claude`. This ensures no work is ever lost and the full history is always recoverable.
+
 - The `.claude/` directory (Claude internal memory and config) is intentionally excluded from version control via `.gitignore`.
 
 ## Structure
