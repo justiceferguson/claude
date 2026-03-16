@@ -45,10 +45,10 @@ References: @../../context/me.md | @../../context/work.md | @../../context/goals
 - Competitive analysis and market research
 
 **Timeline:**
-- Option A: Find a role before August 2026 → consider turning down Blackstone
-- Option B: Start Blackstone in August 2026 → recruit actively for 6 months post-start
-- Currently open to recruiting and being transparent with firms about the timeline
-- Decision criteria: opportunity must be compelling enough to pass on Blackstone
+- Target start window: **July–December 2026**
+- Open to leaving Blackstone at any point after starting in August — latest exit is 6 months post-start (December 2026)
+- Currently recruiting actively; transparent with firms about timeline
+- Decision criteria: opportunity must be compelling enough to pass on or leave Blackstone
 
 **Running toward:**
 - Pure business operations
